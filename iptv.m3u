@@ -55,7 +55,25 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
-#EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教超清
-http://192.168.168.1:8888/rtp/239.77.0.167:5146
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视高清
-http://192.168.168.1:8888/rtp/239.77.0.215:5146
+#EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
+rtp://239.77.0.3:5146
+#EXTINF:-1 group-title="成人",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="成人",Brazzers
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="成人",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="成人",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人",Extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人",Penthouse HD
+http://31.131.136.4:8000/play/a003
+#EXTINF:-1 group-title="成人",Hustler HD
+http://31.131.136.4:8000/play/a00g
+#EXTINF:-1 group-title="成人",Redlight HD
+http://31.131.136.4:8000/play/a004
+#EXTINF:-1 group-title="成人",Playboy HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
